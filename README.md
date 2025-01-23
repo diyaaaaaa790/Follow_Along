@@ -3,5 +3,7 @@ Understood the overall structure of a MERN project and Learnt the foundational s
 <br>
 Follow Along 2:
 Created a structured folder hierarchy for the project and also Set up a React app for the frontend and a Node.js server for the backend and at last I also Configured Tailwind CSS for streamlined styling.
-
+<br>
+Follow Along 3:
+ I Set up the dedicated folders for organizing backend code effectively, Initialized and configure a Node.js server to handle API requests and Connected our application to MongoDB to store and manage data.
 
