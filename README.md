@@ -6,4 +6,6 @@ Created a structured folder hierarchy for the project and also Set up a React ap
 <br>
 Follow Along 3:
  I Set up the dedicated folders for organizing backend code effectively, Initialized and configure a Node.js server to handle API requests and Connected our application to MongoDB to store and manage data.
-
+<br>
+Follow Along 4:
+Created a User Model, Created a User Controller, Enabled and configured Multer
