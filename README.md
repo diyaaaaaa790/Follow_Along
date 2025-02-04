@@ -333,3 +333,8 @@ For **Login**:
 - Implemented the logic to fetch user addresses from the user schema.
 - Implemented the logic to add a new address in the user schema.
 ```
+<<<<<<< HEAD
+=======
+
+You can now copy and paste this markdown content into any markdown editor or file!
+>>>>>>> f7f868934a812b1ae7d87ecb473cf88d9b5453d7
